@@ -1,0 +1,10 @@
+[
+	{
+		"package": "NSUM",
+		"url": "https://github.com/coalesce-lab/NSUM"
+	},
+	{
+		"package": "networkscaleup",
+		"url": "https://github.com/coalesce-lab/networkscaleup"
+	}
+]
