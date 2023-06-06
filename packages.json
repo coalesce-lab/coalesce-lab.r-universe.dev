@@ -4,6 +4,10 @@
 		"url": "https://github.com/coalesce-lab/NSUM"
 	},
 	{
+		"package": "stansum",
+		"url": "https://github.com/coalesce-lab/stansum"
+	},
+	{
 		"package": "networkscaleup",
 		"url": "https://github.com/coalesce-lab/networkscaleup"
 	}
