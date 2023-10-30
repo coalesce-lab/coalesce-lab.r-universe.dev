@@ -4,6 +4,10 @@
 		"url": "https://github.com/coalesce-lab/NSUM"
 	},
 	{
+		"package": "cmdstanr",
+		"url": "https://github.com/stan-dev/cmdstanr"
+	},
+	{
 		"package": "stansum",
 		"url": "https://github.com/coalesce-lab/stansum"
 	},
